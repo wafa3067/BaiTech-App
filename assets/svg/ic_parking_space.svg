@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_parking_space</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_parking_space" fill-rule="nonzero">
+            <g id="_11-park" transform="translate(-0.000000, 0.000000)">
+                <path d="M8,0 C3.581722,0 0,3.581722 0,8 C0,12.418278 3.581722,16 8,16 C12.418278,16 16,12.418278 16,8 C16,5.87826808 15.1571453,3.84343678 13.6568542,2.34314575 C12.1565632,0.842854723 10.1217319,0 8,0 Z M8,14.667 C4.31791757,14.667 1.333,11.6820824 1.333,8 C1.333,4.31791757 4.31791757,1.333 8,1.333 C11.6820824,1.333 14.667,4.31791757 14.667,8 C14.667,9.76819834 13.9645859,11.4639759 12.7142809,12.7142809 C11.4639759,13.9645859 9.76819834,14.667 8,14.667 Z" id="Контур_4435" fill="url(#linearGradient-1)"></path>
+                <path d="M9,4.667 L6.667,4.667 C6.29901624,4.667 6.0005517,4.96501666 6,5.333 L6,12 L7.333,12 L7.333,9.333 L9,9.333 C10.2884803,9.333 11.333,8.28848032 11.333,7 C11.333,5.71151968 10.2884803,4.667 9,4.667 Z M9,8 L7.333,8 L7.333,6 L9,6 C9.55228475,6 10,6.44771525 10,7 C10,7.55228475 9.55228475,8 9,8 Z" id="Контур_4436" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

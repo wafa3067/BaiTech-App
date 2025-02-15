@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mosque</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mosque" transform="translate(0.000000, 0.009000)" fill-rule="nonzero">
+            <path d="M22.588,22.571 L22.588,5.63 C22.5861804,3.62294613 21.7240323,1.71296777 20.22,0.384 L19.765,0 L19.309,0.384 C17.8052286,1.71273669 16.9431058,3.62229496 16.941,5.629 L16.941,10.721 C16.3210463,9.75847737 15.5198442,8.92568915 14.582,8.269 L10.588,5.469 L6.594,8.269 C4.23160042,9.92393211 2.82428446,12.6266057 2.823,15.511 L2.823,16.924 L1.412,16.924 L1.412,22.571 L0,22.571 L0,23.983 L24,23.983 L24,22.571 L22.588,22.571 Z M21.176,7.041 L18.353,7.041 L18.353,5.63 L21.177,5.63 L21.176,7.041 Z M19.765,1.904 C20.3525282,2.56631809 20.7735213,3.3592799 20.993,4.217 L18.536,4.217 C18.7557712,3.35918637 19.1771114,2.56621646 19.765,1.904 L19.765,1.904 Z M7.4,9.426 L10.588,7.194 L13.772,9.423 C15.3494014,10.5305842 16.4350439,12.2074501 16.8,14.1 L4.372,14.1 C4.73777627,12.208586 5.8233223,10.5329447 7.4,9.426 L7.4,9.426 Z M4.235,15.512 L16.941,15.512 L16.941,16.924 L4.235,16.924 L4.235,15.512 Z M2.824,18.335 L18.353,18.335 L18.353,19.747 L13.825,19.747 L11,22.571 L2.824,22.571 L2.824,18.335 Z M13,22.571 L14.412,21.159 L18.355,21.159 L18.355,22.571 L13,22.571 Z M19.766,22.571 L19.766,16.924 L18.353,16.924 L18.353,8.453 L21.177,8.453 L21.177,22.571 L19.766,22.571 Z" id="Контур_4166" fill="url(#linearGradient-1)"></path>
+            <polygon id="Контур_4167" fill="url(#linearGradient-2)" points="4.236 19.748 5.647 19.748 5.647 21.16 4.236 21.16"></polygon>
+            <polygon id="Контур_4168" fill="url(#linearGradient-3)" points="7.059 19.748 8.471 19.748 8.471 21.16 7.059 21.16"></polygon>
+        </g>
+    </g>
+</svg>

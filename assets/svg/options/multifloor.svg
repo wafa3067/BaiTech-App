@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>multifloor</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="multifloor" transform="translate(0.104000, 0.000000)" fill-rule="nonzero">
+            <path d="M13.88,24 L0,24 L0,4.634 L6.94,0 L13.88,4.634 L13.88,24 Z M1.974,22.026 L11.896,22.026 L11.896,5.694 L6.94,2.394 L1.974,5.694 L1.974,22.026 Z" id="Контур_4129" fill="url(#linearGradient-1)"></path>
+            <polygon id="Контур_4130" fill="url(#linearGradient-2)" points="3.959 7.148 9.808 7.148 9.808 9.132 3.959 9.132"></polygon>
+            <polygon id="Контур_4132" fill="url(#linearGradient-2)" points="3.959 11.117 9.808 11.117 9.808 13.101 3.959 13.101"></polygon>
+            <polygon id="Контур_4134" fill="url(#linearGradient-2)" points="3.959 15.075 9.808 15.075 9.808 17.059 3.959 17.059"></polygon>
+            <polygon id="Контур_4136" fill="url(#linearGradient-3)" points="4.956 19.045 8.925 19.045 8.925 24.001 4.956 24.001"></polygon>
+            <path d="M23.792,24 L11.896,24 L11.896,8.571 L17.849,4.997 L23.792,8.571 L23.792,24 Z M13.884,22.023 L21.822,22.023 L21.822,9.693 L17.849,7.314 L13.884,9.693 L13.884,22.023 Z" id="Контур_4137" fill="url(#linearGradient-4)"></path>
+            <polygon id="Контур_4138" fill="url(#linearGradient-5)" points="15.865 10.12 19.834 10.12 19.834 12.104 15.865 12.104"></polygon>
+            <polygon id="Контур_4139" fill="url(#linearGradient-5)" points="15.865 14.089 19.834 14.089 19.834 16.073 15.865 16.073"></polygon>
+            <polygon id="Контур_4140" fill="url(#linearGradient-5)" points="15.865 18.058 19.834 18.058 19.834 20.042 15.865 20.042"></polygon>
+        </g>
+    </g>
+</svg>

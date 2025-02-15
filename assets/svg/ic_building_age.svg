@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_building_age</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_building_age" transform="translate(0.000000, 0.534000)">
+            <g id="Сгруппировать_14481" transform="translate(-0.000000, -0.000000)">
+                <path d="M2.667,1.066 L5.55111512e-16,1.066 L5.55111512e-16,14.933 L16,14.933 L16,1.066 L13.334,1.066 L13.334,-2.22044605e-16 L12.267,-2.22044605e-16 L12.267,1.066 L10.134,1.066 L10.134,-2.22044605e-16 L9.067,-2.22044605e-16 L9.067,1.066 L6.934,1.066 L6.934,-2.22044605e-16 L5.867,-2.22044605e-16 L5.867,1.066 L3.734,1.066 L3.734,-2.22044605e-16 L2.667,-2.22044605e-16 L2.667,1.066 Z M1.067,5.333 L14.934,5.333 L14.934,13.866 L1.067,13.866 L1.067,5.333 Z M2.667,2.133 L1.067,2.133 L1.067,4.266 L14.934,4.266 L14.934,2.133 L13.334,2.133 L13.334,3.2 L12.267,3.2 L12.267,2.133 L10.134,2.133 L10.134,3.2 L9.067,3.2 L9.067,2.133 L6.934,2.133 L6.934,3.2 L5.867,3.2 L5.867,2.133 L3.734,2.133 L3.734,3.2 L2.667,3.2 L2.667,2.133 Z" id="Контур_4432" fill="url(#linearGradient-1)"></path>
+                <path d="M4.8,12.554 L11.2,12.554 L11.2,7.923 L7.954,6.646 L4.8,7.933 L4.8,12.554 Z M10.133,11.487 L10.133,8.65 L7.96,7.795 L5.867,8.646 L5.867,11.488 L10.133,11.487 Z" id="Контур_4433" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

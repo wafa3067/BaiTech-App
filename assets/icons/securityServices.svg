@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="24px" viewBox="0 0 22 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>securityServices</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="securityServices" transform="translate(0.749000, -0.002000)" fill-rule="nonzero">
+            <g id="Сгруппировать_12834" transform="translate(-0.000000, 0.000000)">
+                <path d="M10.251,6.66133815e-16 L0,3.731 L0,12.018 C0,21.382 9.948,23.929 10.048,23.954 L10.248,24.003 L10.448,23.954 C10.548,23.929 20.496,21.382 20.496,12.018 L20.496,3.731 L10.251,6.66133815e-16 Z M18.794,12.015 C18.794,19.429 11.611,21.845 10.254,22.235 C8.948,21.848 1.708,19.366 1.708,12.015 L1.708,4.927 L10.251,1.821 L18.794,4.927 L18.794,12.015 Z" id="Контур_4163" fill="url(#linearGradient-1)"></path>
+                <path d="M7.176,7.404 L7.176,9.511 L5.695,9.511 L5.695,17.142 L14.808,17.142 L14.808,9.511 L13.327,9.511 L13.327,7.404 C13.2967604,5.72706395 11.9287087,4.38345944 10.2515,4.38345944 C8.57429132,4.38345944 7.20623962,5.72706395 7.176,7.404 Z M13.099,15.435 L7.399,15.435 L7.399,11.22 L13.099,11.22 L13.099,15.435 Z M11.62,7.404 L11.62,9.511 L8.884,9.511 L8.884,7.404 C8.884,6.64902675 9.49602675,6.037 10.251,6.037 C11.0059733,6.037 11.618,6.64902675 11.618,7.404 L11.62,7.404 Z" id="Контур_4164" fill="url(#linearGradient-2)"></path>
+                <path d="M10.251,14.067 C10.6596907,14.067 10.991,13.7356907 10.991,13.327 C10.991,12.9183093 10.6596907,12.587 10.251,12.587 C9.84230929,12.587 9.511,12.9183093 9.511,13.327 C9.511,13.7356907 9.84230929,14.067 10.251,14.067 L10.251,14.067 Z" id="Контур_4165" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

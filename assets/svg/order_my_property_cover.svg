@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101.162" height="99.886" viewBox="0 0 101.162 99.886">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b7fc"/>
+      <stop offset="1" stop-color="#31cdfe"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_8303" data-name="Прямоугольник 8303" width="101.162" height="99.886" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_14685" data-name="Сгруппировать 14685" transform="translate(0 0)">
+    <rect id="Прямоугольник_8265" data-name="Прямоугольник 8265" width="11.494" height="15.601" transform="translate(71.376 5.752)" fill="#182f3b"/>
+    <rect id="Прямоугольник_8266" data-name="Прямоугольник 8266" width="12.35" height="2.25" transform="translate(70.948 5.475)" fill="#31cdfe"/>
+    <rect id="Прямоугольник_8267" data-name="Прямоугольник 8267" width="88.525" height="74.448" transform="translate(4.228 25.427)" fill="#31cdfe"/>
+    <rect id="Прямоугольник_8268" data-name="Прямоугольник 8268" width="36.541" height="37.316" transform="translate(59.805 62.558)" fill="url(#linear-gradient)"/>
+    <rect id="Прямоугольник_8269" data-name="Прямоугольник 8269" width="17.729" height="22.934" transform="translate(39.628 32.406)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8270" data-name="Прямоугольник 8270" width="15.539" height="20.756" transform="translate(40.721 33.495)" fill="#ebfdff"/>
+    <rect id="Прямоугольник_8271" data-name="Прямоугольник 8271" width="1.155" height="21.336" transform="translate(47.914 33.346)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8272" data-name="Прямоугольник 8272" width="15.643" height="1.153" transform="translate(40.669 43.298)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8273" data-name="Прямоугольник 8273" width="17.729" height="22.934" transform="translate(12.335 32.406)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8274" data-name="Прямоугольник 8274" width="15.541" height="20.756" transform="translate(13.43 33.495)" fill="#ebfdff"/>
+    <rect id="Прямоугольник_8275" data-name="Прямоугольник 8275" width="1.153" height="21.336" transform="translate(20.623 33.346)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8276" data-name="Прямоугольник 8276" width="15.645" height="1.153" transform="translate(13.376 43.298)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8277" data-name="Прямоугольник 8277" width="17.729" height="22.934" transform="translate(66.919 32.406)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8278" data-name="Прямоугольник 8278" width="15.539" height="20.756" transform="translate(68.014 33.495)" fill="#ebfdff"/>
+    <rect id="Прямоугольник_8279" data-name="Прямоугольник 8279" width="1.155" height="21.336" transform="translate(75.207 33.346)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8280" data-name="Прямоугольник 8280" width="15.645" height="1.153" transform="translate(67.96 43.298)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8281" data-name="Прямоугольник 8281" width="17.729" height="22.934" transform="translate(34.806 68.297)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8282" data-name="Прямоугольник 8282" width="15.541" height="20.756" transform="translate(35.901 69.388)" fill="#ebfdff"/>
+    <rect id="Прямоугольник_8283" data-name="Прямоугольник 8283" width="1.153" height="21.336" transform="translate(43.092 69.24)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8284" data-name="Прямоугольник 8284" width="15.645" height="1.153" transform="translate(35.847 79.19)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8285" data-name="Прямоугольник 8285" width="13.202" height="22.934" transform="translate(62.965 70.05)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8286" data-name="Прямоугольник 8286" width="10.889" height="20.756" transform="translate(64.122 71.141)" fill="#ebfdff"/>
+    <rect id="Прямоугольник_8287" data-name="Прямоугольник 8287" width="13.204" height="22.934" transform="translate(79.984 70.05)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8288" data-name="Прямоугольник 8288" width="10.889" height="20.756" transform="translate(81.143 71.141)" fill="#ebfdff"/>
+    <rect id="Прямоугольник_8289" data-name="Прямоугольник 8289" width="88.525" height="3.702" transform="translate(4.228 96.173)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8290" data-name="Прямоугольник 8290" width="36.541" height="3.723" transform="translate(59.805 96.163)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8291" data-name="Прямоугольник 8291" width="88.525" height="3.744" transform="translate(4.228 25.209)" fill="#0fa4d3"/>
+    <rect id="Прямоугольник_8292" data-name="Прямоугольник 8292" width="12.901" height="28.452" transform="translate(12.928 66.477)" fill="#2c4b5f"/>
+    <rect id="Прямоугольник_8293" data-name="Прямоугольник 8293" width="11.049" height="25.998" transform="translate(13.854 67.703)" fill="#182f3b"/>
+    <rect id="Прямоугольник_8294" data-name="Прямоугольник 8294" width="9.584" height="24.477" transform="translate(14.586 68.465)" fill="#2c4b5f"/>
+    <g id="Сгруппировать_14684" data-name="Сгруппировать 14684" transform="translate(0 0)">
+      <g id="Сгруппировать_14683" data-name="Сгруппировать 14683" clip-path="url(#clip-path)">
+        <path id="Контур_4761" data-name="Контур 4761" d="M8.218,41.284a.739.739,0,1,1-.738.738.74.74,0,0,1,.738-.738" transform="translate(6.941 38.308)" fill="#31cdfe" fill-rule="evenodd"/>
+        <rect id="Прямоугольник_8295" data-name="Прямоугольник 8295" width="11.049" height="0.869" transform="translate(13.854 81.903)" fill="#182f3b"/>
+        <rect id="Прямоугольник_8296" data-name="Прямоугольник 8296" width="92.065" height="3.189" transform="translate(4.282 62.603)" fill="#0fa4d3"/>
+        <path id="Контур_4762" data-name="Контур 4762" d="M28.524,39.567,51.61,26.272,74.7,39.567Z" transform="translate(26.467 24.378)" fill="#1a2936" fill-rule="evenodd"/>
+        <path id="Контур_4763" data-name="Контур 4763" d="M0,35.079H62.514V31.108H3Z" transform="translate(0 28.866)" fill="#1a2936" fill-rule="evenodd"/>
+        <path id="Контур_4764" data-name="Контур 4764" d="M.793,26.2,47.754,0,94.718,26.2Z" transform="translate(0.736 0.001)" fill="#1a2936" fill-rule="evenodd"/>
+        <rect id="Прямоугольник_8297" data-name="Прямоугольник 8297" width="2.967" height="31.324" transform="translate(56.838 64.85)" fill="#0fa4d3"/>
+        <rect id="Прямоугольник_8298" data-name="Прямоугольник 8298" width="2.967" height="3.713" transform="translate(56.838 96.161)" fill="#182f3b"/>
+        <rect id="Прямоугольник_8299" data-name="Прямоугольник 8299" width="21.833" height="1.558" transform="translate(8.462 95.489)" fill="#31cdfe"/>
+        <rect id="Прямоугольник_8300" data-name="Прямоугольник 8300" width="21.833" height="1.604" transform="translate(8.462 93.885)" fill="#0fa4d3"/>
+        <rect id="Прямоугольник_8301" data-name="Прямоугольник 8301" width="23.115" height="1.465" transform="translate(7.821 98.409)" fill="#31cdfe"/>
+        <rect id="Прямоугольник_8302" data-name="Прямоугольник 8302" width="23.115" height="1.508" transform="translate(7.821 96.902)" fill="#0fa4d3"/>
+        <path id="Контур_4765" data-name="Контур 4765" d="M37.319,25.18A16.45,16.45,0,1,1,20.868,41.631,16.451,16.451,0,0,1,37.319,25.18" transform="translate(19.363 23.365)" fill="#ebfdff" fill-rule="evenodd"/>
+        <path id="Контур_4766" data-name="Контур 4766" d="M52.887,26.9a21.512,21.512,0,0,1,5.768,27.621l24.2,17.434c3.63,2.616-1.348,9.13-4.829,6.36L54.674,59.644A21.508,21.508,0,1,1,52.887,26.9M49.334,31.58a15.633,15.633,0,1,0,3,21.9,15.635,15.635,0,0,0-3-21.9" transform="translate(17.046 20.898)" fill="#1a2936" fill-rule="evenodd"/>
+        <path id="Контур_4767" data-name="Контур 4767" d="M50.779,26.9a21.514,21.514,0,0,1,5.768,27.621l24.2,17.432c1.743,1.255,1.5,3.412.393,5.007L50.22,53.482a15.632,15.632,0,0,0-24.9-18.909l-4.679-3.551A21.511,21.511,0,0,1,50.779,26.9" transform="translate(19.154 20.898)" fill="#2d4050" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

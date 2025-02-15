@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>penthouse</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#00B7FC" offset="0%"></stop>
+            <stop stop-color="#31CDFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="penthouse" transform="translate(0.015000, 0.000000)" fill-rule="nonzero">
+            <polygon id="Контур_4097" fill="url(#linearGradient-1)" points="2.71 8.542 4.771 8.542 4.771 15.755 2.71 15.755"></polygon>
+            <polygon id="Контур_4098" fill="url(#linearGradient-1)" points="19.198 8.542 21.259 8.542 21.259 15.755 19.198 15.755"></polygon>
+            <polygon id="Контур_4099" fill="url(#linearGradient-2)" points="22.671 11.397 11.985 2.656 1.299 11.397 0 9.81 11.985 0 23.97 9.81"></polygon>
+            <polygon id="Контур_4100" fill="url(#linearGradient-3)" points="6.832 13.695 8.893 13.695 8.893 15.756 6.832 15.756"></polygon>
+            <polygon id="Контур_4101" fill="url(#linearGradient-3)" points="10.954 13.695 13.015 13.695 13.015 15.756 10.954 15.756"></polygon>
+            <polygon id="Контур_4102" fill="url(#linearGradient-3)" points="15.071 13.695 17.132 13.695 17.132 15.756 15.071 15.756"></polygon>
+            <polygon id="Контур_4103" fill="url(#linearGradient-3)" points="6.832 21.939 8.893 21.939 8.893 24 6.832 24"></polygon>
+            <polygon id="Контур_4104" fill="url(#linearGradient-3)" points="2.71 21.939 4.771 21.939 4.771 24 2.71 24"></polygon>
+            <polygon id="Контур_4105" fill="url(#linearGradient-3)" points="10.954 21.939 13.015 21.939 13.015 24 10.954 24"></polygon>
+            <polygon id="Контур_4106" fill="url(#linearGradient-3)" points="15.071 21.939 17.132 21.939 17.132 24 15.071 24"></polygon>
+            <polygon id="Контур_4107" fill="url(#linearGradient-3)" points="19.198 21.939 21.259 21.939 21.259 24 19.198 24"></polygon>
+            <polygon id="Контур_4108" fill="url(#linearGradient-3)" points="2.71 17.817 4.771 17.817 4.771 19.878 2.71 19.878"></polygon>
+            <polygon id="Контур_4109" fill="url(#linearGradient-3)" points="19.198 17.817 21.259 17.817 21.259 19.878 19.198 19.878"></polygon>
+        </g>
+    </g>
+</svg>

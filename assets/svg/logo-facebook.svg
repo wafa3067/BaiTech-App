@@ -1,0 +1,15 @@
+<svg id="Component_12_156" data-name="Component 12 – 156" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8308" data-name="Rectangle 8308" width="16" height="16" transform="translate(8 8)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Component_1_25" data-name="Component 1 – 25">
+    <rect id="Rectangle_7814" data-name="Rectangle 7814" width="32" height="32" rx="9" fill="#fff" opacity="0.811"/>
+    <g id="Mask_Group_14275" data-name="Mask Group 14275" clip-path="url(#clip-path)">
+      <g id="_x30_1._Facebook" transform="translate(6 6)">
+        <path id="Icon_11_" d="M8.087,11.033H6.1c-.313,0-.424-.113-.424-.427q0-1.213,0-2.426c0-.311.118-.429.427-.43H8.087c0-.055,0-1.223,0-1.76a4.39,4.39,0,0,1,.546-2.252,3.316,3.316,0,0,1,1.786-1.484A4.415,4.415,0,0,1,11.95,2h1.967c.282,0,.407.125.407.409q0,1.141,0,2.282c0,.287-.12.4-.408.405-.537.006-1.075,0-1.612.024a.73.73,0,0,0-.827.826c-.013.594-.005,1.188-.005,1.8h2.315c.328,0,.44.113.44.442q0,1.206,0,2.413c0,.325-.105.428-.435.428H11.464v6.509c0,.347-.109.458-.452.458h-2.5c-.3,0-.421-.118-.421-.42,0-2.12,0-6.472,0-6.546Z" fill="#3d6ad6"/>
+      </g>
+    </g>
+  </g>
+</svg>

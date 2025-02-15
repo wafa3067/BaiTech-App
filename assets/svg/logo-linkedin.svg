@@ -1,0 +1,17 @@
+<svg id="Component_12_154" data-name="Component 12 – 154" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8308" data-name="Rectangle 8308" width="16" height="16" transform="translate(8 8)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Component_1_25" data-name="Component 1 – 25">
+    <rect id="Rectangle_7814" data-name="Rectangle 7814" width="32" height="32" rx="9" fill="#fff" opacity="0.811"/>
+    <g id="Mask_Group_14273" data-name="Mask Group 14273" clip-path="url(#clip-path)">
+      <g id="_x31_0.Linkedin" transform="translate(6 6)">
+        <path id="Path_4790" data-name="Path 4790" d="M18,18h0V12.131c0-2.871-.618-5.082-3.974-5.082a3.484,3.484,0,0,0-3.138,1.725h-.047V7.317H7.659V18h3.313V12.71c0-1.393.264-2.739,1.989-2.739,1.7,0,1.725,1.589,1.725,2.829V18Z" fill="#0073b1"/>
+        <path id="Path_4791" data-name="Path 4791" d="M2.264,7.318H5.581V18H2.264Z" fill="#0073b1"/>
+        <path id="Path_4792" data-name="Path 4792" d="M3.921,2A1.93,1.93,0,1,0,5.843,3.921,1.922,1.922,0,0,0,3.921,2Z" fill="#0073b1"/>
+      </g>
+    </g>
+  </g>
+</svg>
